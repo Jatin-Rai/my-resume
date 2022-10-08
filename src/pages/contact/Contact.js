@@ -15,7 +15,7 @@ const Contact = () => {
             <div className="bg-gray-100 font-sans h-screen w-full flex flex-row justify-center items-center">
                 <div className="block rounded-lg shadow-lg bg-white max-w-sm text-center">
                     <div className="py-3 px-6 border-b border-gray-300">
-                        Contact
+                        Say Hi!
                     </div>
                     <div className="p-8">
                         <img src={sendEmailIcon} className="text-xs" />
