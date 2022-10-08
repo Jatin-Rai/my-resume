@@ -1,0 +1,50 @@
+{
+    "personalinfo": {
+        "name": "Jatin Rai",
+        "mobile": "7005616900",
+        "email": "jatinrai258@gmail.com",
+        "currentlocation": "Kolkata",
+        "about": "Passionate tech enthusiast. Love to code, take long walks and swim"
+    },
+    "education": {
+        "x": {
+            "schoolname": "Holy Land Academy",
+            "percentage": "70.2%",
+            "year": "2013"
+        },
+        "xii": {
+            "schoolname": "Dawrpui School of Science & Technology",
+            "percentage": "52.4%",
+            "subject": "Science",
+            "year": "2015"
+        },
+        "ug": {
+            "schoolname": "School of Engineering & Technology",
+            "university": "Mizoram University",
+            "cgpa": "7.06",
+            "degree": "Bachelor of Technology",
+            "dept": "Computer Engineering",
+            "year": "2019"
+        }
+    },
+    "exp": {
+        "exp0": {
+            "companyname": "Aizawl Smartcity Limited",
+            "designation": "Computer Engineer Intern",
+            "startdate": "October 2020",
+            "enddate": "February 2021"
+        },
+        "exp1": {
+            "companyname": "Capgemini Technology Services India Limited",
+            "designation": "Software Engineer",
+            "startdate": "May 2022",
+            "enddate": "Present"
+        }
+    },
+    "socialmedia": {
+        "instagram": "https://www.instagram.com/jatin.j.rai/",
+        "twitter": "https://twitter.com/JatinRai96",
+        "linkedin": "https://www.linkedin.com/in/jatinrai96/",
+        "github": "https://github.com/Jatin-Rai"
+    }
+}
