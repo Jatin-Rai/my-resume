@@ -12,7 +12,7 @@ const Navbar = () => {
     {
       'id': 1,
       'path': '/',
-      'page': 'About'
+      'page': 'index'
     },
     {
       'id': 2,
