@@ -7,6 +7,7 @@
     "gatsby"
   ],
   "scripts": {
+    "deploy": "gatsby build --prefix-paths && gh-pages -d public",
     "develop": "gatsby develop",
     "start": "gatsby develop",
     "build": "gatsby build",
@@ -22,6 +23,7 @@
   "devDependencies": {
     "autoprefixer": "^10.4.12",
     "gatsby-plugin-postcss": "^5.23.0",
+    "gh-pages": "^4.0.0",
     "postcss": "^8.4.16",
     "tailwindcss": "^3.1.8"
   }
